@@ -1,0 +1,75 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.font-bold{
+    /* font-weight: bold; */
+    font-weight: 800;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-family: 'Young Serif', serif;
+    color: azure;
+    text-shadow: 4px 3px 4px rgba(0, 0, 0, 0.5);
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-blue{
+    color:antiquewhite;
+    font-size:2rem;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+}
+
+.btn{
+    padding: 4px 12px;
+    border: 2px solid white;
+    border-radius:  6px;
+    cursor: pointer;
+    color: white;
+    background-color: brown;
+}
+
+.overflow-x-hidden{
+    overflow-x: hidden;
+    background-color: rgb(59, 62, 86);
+}
+
+
+.text-center{
+    text-align: center;
+}
+
+.txt-1{
+    color: blue;
+}
+.txt-2{
+    color: red;
+}
